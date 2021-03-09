@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Voting</string>
+    <string name="can1">Sachin</string>
+    <string name="can2">Hiral</string>
+    <string name="can3">Arvind</string>
+    <string name="voteNow">VOTE NOW</string>
+    <string name="voteplz">Vote please</string>
+    <string name="Name">Name</string>
+    <string name="EName">Enter your Name</string>
+    <string name="ID">ID</string>
+    <string name="EID">Enter your Id</string>
+    <string name="votesubmit">Vote</string>
+    <string name="Agree">AGREE</string>
+    <string name="Disagree">DISAGREE</string>
+    <string-array name="Canlist">
+        <item>Choose Candidate</item>
+        <item>Sachin</item>
+        <item>Hiral</item>
+        <item>Arvind</item>
+    </string-array>
+</resources>
